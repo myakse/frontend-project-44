@@ -3,3 +3,7 @@
 
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a7e58a59c4fc10a3a6f0/maintainability)](https://codeclimate.com/github/myakse/frontend-project-44/maintainability)
+
+
+
+https://asciinema.org/a/RuXNgeYdKULj7aUVXUnranYws
