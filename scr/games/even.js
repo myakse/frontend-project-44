@@ -1,13 +1,13 @@
 import readlineSync from 'readline-sync';
+import randomNumberGenerator from '../randomNumberGenerator.js';
 
 const evenGames = () => {
   console.log('Welcome to the Brain Games!');
   const userName = readlineSync.question('May I have your name?');
   console.log(`Hello, ${userName}!`);
   console.log('Answer "yes" if the number is even, otherwise answer "no".');
-
   for (let i = 0; i < 3; i += 1) {
-    const randomNumber = Math.round(Math.random() * 100);
+    const randomNumber = randomNumberGenerator(1, 100);
     console.log(`Question: ${randomNumber}`);
     const userAnswer = readlineSync.question('Your answer: ');
     const probabledAnswer = userAnswer === 'yes' ? 'no' : 'yes';
