@@ -12,7 +12,7 @@ const calculate = (x, operator, y) => {
     case '*':
       return x * y;
     default:
-      break;
+      return ('Invalid value');
   }
 };
 
