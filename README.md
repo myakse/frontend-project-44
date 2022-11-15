@@ -6,10 +6,12 @@
 
 
 
-Brain-even  https://asciinema.org/a/RuXNgeYdKULj7aUVXUnranYws
+### Brain-even  https://asciinema.org/a/RuXNgeYdKULj7aUVXUnranYws
 
-Brain-calc  https://asciinema.org/a/D6aK1OusHcJPfLCIrhBVOPzYA
+### Brain-calc  https://asciinema.org/a/D6aK1OusHcJPfLCIrhBVOPzYA
 
-Brain-gcd https://asciinema.org/a/LyCODonCwrh2sCGag7Hse8yqx
+### Brain-gcd https://asciinema.org/a/LyCODonCwrh2sCGag7Hse8yqx
 
-Brain-progression https://asciinema.org/a/HX5zoFb0gujkPTIK0K6Vczq0b
+### Brain-progression https://asciinema.org/a/HX5zoFb0gujkPTIK0K6Vczq0b
+
+### Brain-prime https://asciinema.org/a/9qpy0dyJ2AIFXo3SwCKtP1Lcz
