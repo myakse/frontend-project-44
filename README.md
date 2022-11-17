@@ -8,20 +8,20 @@
 
 ### Brain-even:
 start game: brain-even
-[![asciicast](https://asciinema.org/a/RuXNgeYdKULj7aUVXUnranYws.png)](https://asciinema.org/a/RuXNgeYdKULj7aUVXUnranYws)
+<a href="https://asciinema.org/a/RuXNgeYdKULj7aUVXUnranYws"><img src="https://asciinema.org/a/RuXNgeYdKULj7aUVXUnranYws.png" width="836"/></a>
 
 ### Brain-calc: 
 start game: brain-calc
-[![asciicast](https://asciinema.org/a/D6aK1OusHcJPfLCIrhBVOPzYA.png)](https://asciinema.org/a/D6aK1OusHcJPfLCIrhBVOPzYA)
+<a href="https://asciinema.org/a/D6aK1OusHcJPfLCIrhBVOPzYA"><img src="https://asciinema.org/a/D6aK1OusHcJPfLCIrhBVOPzYA.png" width="836"/></a>
 
 ### Brain-gcd:
 start game: brain-gcd
-[![asciicast](https://asciinema.org/a/LyCODonCwrh2sCGag7Hse8yqx.png)](https://asciinema.org/a/LyCODonCwrh2sCGag7Hse8yqx)
+<a href="https://asciinema.org/a/LyCODonCwrh2sCGag7Hse8yqx"><img src="https://asciinema.org/a/LyCODonCwrh2sCGag7Hse8yqx.png" width="836"/></a>
 
 ### Brain-progression: 
 start game: brain-progression
-[![asciicast](https://asciinema.org/a/HX5zoFb0gujkPTIK0K6Vczq0b.png)](https://asciinema.org/a/HX5zoFb0gujkPTIK0K6Vczq0b)
+<a href="https://asciinema.org/a/HX5zoFb0gujkPTIK0K6Vczq0b"><img src="https://asciinema.org/a/HX5zoFb0gujkPTIK0K6Vczq0b.png" width="836"/></a>
 
 ### Brain-prime: 
 start game: brain-prime
-[![asciicast](https://asciinema.org/a/kO2pKDtcNhEyx2R19Wxr5YzA6.png)](https://asciinema.org/a/kO2pKDtcNhEyx2R19Wxr5YzA6)
+<a href="https://asciinema.org/a/kO2pKDtcNhEyx2R19Wxr5YzA6"><img src="https://asciinema.org/a/kO2pKDtcNhEyx2R19Wxr5YzA6.png" width="836"/></a>
