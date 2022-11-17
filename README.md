@@ -23,5 +23,4 @@ start game: brain-progression
 <a href="https://asciinema.org/a/HX5zoFb0gujkPTIK0K6Vczq0b"><img src="https://asciinema.org/a/HX5zoFb0gujkPTIK0K6Vczq0b.png" width="836"/></a>
 
 ### Brain-prime: 
-start game: brain-prime
 <a href="https://asciinema.org/a/kO2pKDtcNhEyx2R19Wxr5YzA6"><img src="https://asciinema.org/a/kO2pKDtcNhEyx2R19Wxr5YzA6.png" width="836"/></a>
