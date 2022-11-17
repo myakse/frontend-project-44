@@ -17,29 +17,33 @@
 
 ### Инструкция по использованию:
 1. "Проверка на чётность" - пользователю необходимо определить, является ли предложенное число чётным или нечётным.
+
 Запуск игры `brain-even`
-2. "Калькулятор" - пользователю необходимо вычислить математическое выражение.
+
+2. **"Калькулятор"** - пользователю необходимо вычислить математическое выражение.
+
 Для запуска игры ввести `brain-calc`
-3. "НОД" - пользователю необходимо вычислить наибольший общий делитель двух предложенных чисел.
+
+3. **"НОД"** - пользователю необходимо вычислить наибольший общий делитель двух предложенных чисел.
+
 Для запуска игры ввести `brain-gcd`
-4. "Арифметическая прогрессия" - пользователю необходимо определить спрятанное число арифметической прогрессии.
+
+4. **"Арифметическая прогрессия"** - пользователю необходимо определить спрятанное число арифметической прогрессии.
+
 Для запуска игры ввести `brain-progression`
-5. "Простое ли число?" - пользователю необходимо определить, является ли предложенное число простым.
+
+5. **"Простое ли число?"** - пользователю необходимо определить, является ли предложенное число простым.
+
 Для запуска игры ввести `brain-prime`
 
 
 ### Brain-even:
-start game: brain-even
 [![asciicast](https://asciinema.org/a/RuXNgeYdKULj7aUVXUnranYws.svg)](https://asciinema.org/a/RuXNgeYdKULj7aUVXUnranYws)
 ### Brain-calc: 
-start game: brain-calc
 [![asciicast](https://asciinema.org/a/D6aK1OusHcJPfLCIrhBVOPzYA.svg)](https://asciinema.org/a/D6aK1OusHcJPfLCIrhBVOPzYA)
 ### Brain-gcd:
-start game: brain-gcd
 [![asciicast](https://asciinema.org/a/LyCODonCwrh2sCGag7Hse8yqx.svg)](https://asciinema.org/a/LyCODonCwrh2sCGag7Hse8yqx)
 ### Brain-progression: 
-start game: brain-progression
 [![asciicast](https://asciinema.org/a/HX5zoFb0gujkPTIK0K6Vczq0b.svg)](https://asciinema.org/a/HX5zoFb0gujkPTIK0K6Vczq0b)
 ### Brain-prime: 
-start game: brain-prime
 [![asciicast](https://asciinema.org/a/kO2pKDtcNhEyx2R19Wxr5YzA6.svg)](https://asciinema.org/a/kO2pKDtcNhEyx2R19Wxr5YzA6)
