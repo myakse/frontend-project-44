@@ -1,5 +1,5 @@
 import randomNumberGenerator from '../randomNumberGenerator.js';
-import gameRound from '../index.js';
+import engine from '../index.js';
 
 const description = 'What number is missing in the progression?';
 
@@ -25,5 +25,5 @@ export default () => {
     return [question, answer];
   };
 
-  gameRound(description, startProgressionGames);
+  engine(description, startProgressionGames);
 };

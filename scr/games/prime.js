@@ -1,5 +1,5 @@
 import randomNumberGenerator from '../randomNumberGenerator.js';
-import gameRound from '../index.js';
+import engine from '../index.js';
 
 const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
@@ -19,5 +19,5 @@ export default () => {
     return [question, answer];
   };
 
-  gameRound(description, startPrimeGames);
+  engine(description, startPrimeGames);
 };

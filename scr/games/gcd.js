@@ -1,5 +1,5 @@
 import randomNumberGenerator from '../randomNumberGenerator.js';
-import gameRound from '../index.js';
+import engine from '../index.js';
 
 const description = 'Find the greatest common divisor of given numbers.';
 
@@ -20,5 +20,5 @@ export default () => {
     return [question, answer];
   };
 
-  gameRound(description, gcdGames);
+  engine(description, gcdGames);
 };

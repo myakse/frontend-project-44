@@ -1,5 +1,5 @@
 import randomNumberGenerator from '../randomNumberGenerator.js';
-import gameRound from '../index.js';
+import engine from '../index.js';
 
 const description = 'What is the result of the expression?';
 
@@ -28,5 +28,5 @@ export default () => {
     return [question, answer];
   };
 
-  gameRound(description, calcGames);
+  engine(description, calcGames);
 };

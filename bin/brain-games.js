@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import userName from '../scr/cli.js';
+import greeting from '../scr/cli.js';
 
-console.log(`Hello, ${userName}!`);
+greeting();
