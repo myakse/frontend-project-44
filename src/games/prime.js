@@ -11,13 +11,15 @@ const primeNumber = (randomNumber) => {
   } return true;
 };
 
-export default () => {
-  const startPrimeGames = () => {
-    const numberRandom = randomNumberGenerator(1, 100);
-    const question = String(numberRandom);
-    const answer = primeNumber(numberRandom) ? 'yes' : 'no';
-    return [question, answer];
-  };
-
-  engine(description, startPrimeGames);
+const makeRound = () => {
+  const numberRandom = randomNumberGenerator(1, 100);
+  const question = String(numberRandom);
+  const answer = primeNumber(numberRandom) ? 'yes' : 'no';
+  return [question, answer];
 };
+
+const startPrimeGames = () => {
+  engine(description, makeRound);
+};
+
+export default startPrimeGames;

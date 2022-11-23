@@ -2,39 +2,39 @@
 [![Actions Status](https://github.com/myakse/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/myakse/frontend-project-44/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a7e58a59c4fc10a3a6f0/maintainability)](https://codeclimate.com/github/myakse/frontend-project-44/maintainability)
 
-### Описание проекта:
-**"Игры разума"** – это пять консольных игр для тренировки мозга: "Проверка на чётность", "Калькулятор", "НОД", "Арифметическая прогрессия", "Простое ли число?". 
+# Project Description:
+**"Brain Games"** It is a five console games for brain training: "Brain even", "Brain calculator", "Brain gcd", "Brain progression", "Brain prime". 
 
-Каждая игра представляет собой вопросы, на которые нужно правильно ответить. Игра завершается, как только будут даны три правильных ответа. В случае, если игрок дает неверный ответ, игра заканчивается и предлагает пользователю сыграть в неё снова.
+Each game presents questions that need to be answered correctly. The game ends when three correct answers are given. If the player gives an incorrect answer, the game ends and prompts the user to play it again.
 
-### Инструкция по установке:
-1. Склонировать репозиторий локально
+# Installation instructions:
+1. Clone the repository locally
 `git clone git@github.com:myakse/frontend-project-44.git`
-2. Перейти в созданную директорию
+2. Go to the created directory
 `cd frontend-project-44.git`
-3. Установить зависимости
+3. Install Dependencies
 `make install`
 
-### Инструкция по использованию:
-1. **"Проверка на чётность"** - пользователю необходимо определить, является ли предложенное число чётным или нечётным.
+# Instructions for use:
+1. **Brain even** - the user needs to determine whether the proposed number is even or odd.
 
-Для запуска игры введите `brain-even`
+To start the game enter `brain-even`
 
-2. **"Калькулятор"** - пользователю необходимо вычислить математическое выражение.
+2. **Калькулятор** - the user needs to calculate a mathematical expression.
 
-Для запуска игры введите `brain-calc`
+To start the game enter `brain-calc`
 
-3. **"НОД"** - пользователю необходимо вычислить наибольший общий делитель двух предложенных чисел.
+3. **Brain gcd** - the user needs to calculate the greatest common divisor of the two given numbers.
 
-Для запуска игры введите `brain-gcd`
+To start the game enter `brain-gcd`
 
-4. **"Арифметическая прогрессия"** - пользователю необходимо определить спрятанное число арифметической прогрессии.
+4. **Brain progression** - the user needs to determine the hidden number of the arithmetic progression.
 
-Для запуска игры введите `brain-progression`
+To start the game enter `brain-progression`
 
-5. **"Простое ли число?"** - пользователю необходимо определить, является ли предложенное число простым.
+5. **Brain prime** - the user needs to determine if the proposed number is prime.
 
-Для запуска игры введите `brain-prime`
+To start the game enter `brain-prime`
 
 
 ### Brain-even:
