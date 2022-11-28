@@ -1,4 +1,4 @@
-import randomNumberGenerator from '../randomNumberGenerator.js';
+import generateRandomInRange from '../generateRandomInRange.js';
 import engine from '../index.js';
 
 const description = 'What number is missing in the progression?';
@@ -13,11 +13,11 @@ const progressionCalc = (firstNumber, stepProgression, lengthProgression) => {
 };
 
 const makeRound = () => {
-  const firstNumber = randomNumberGenerator(1, 50);
-  const stepProgression = randomNumberGenerator(1, 10);
-  const lengthProgression = randomNumberGenerator(5, 10);
+  const firstNumber = generateRandomInRange(1, 50);
+  const stepProgression = generateRandomInRange(1, 10);
+  const lengthProgression = generateRandomInRange(5, 10);
   const progression = progressionCalc(firstNumber, stepProgression, lengthProgression);
-  const randomIndex = randomNumberGenerator(0, lengthProgression - 1);
+  const randomIndex = generateRandomInRange(0, lengthProgression - 1);
   const answer = progression[randomIndex].toString();
   progression[randomIndex] = '..';
   const question = progression.join(' ');

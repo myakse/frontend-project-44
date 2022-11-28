@@ -1,4 +1,4 @@
-import randomNumberGenerator from '../randomNumberGenerator.js';
+import generateRandomInRange from '../generateRandomInRange.js';
 import engine from '../index.js';
 
 const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
@@ -12,7 +12,7 @@ const primeNumber = (randomNumber) => {
 };
 
 const makeRound = () => {
-  const numberRandom = randomNumberGenerator(1, 100);
+  const numberRandom = generateRandomInRange(1, 100);
   const question = String(numberRandom);
   const answer = primeNumber(numberRandom) ? 'yes' : 'no';
   return [question, answer];
